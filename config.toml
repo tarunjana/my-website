@@ -1,0 +1,26 @@
+baseURL = "https://www.tarunjana.in/"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+title = "Tarun Kumar Jana"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Tarun Kumar Jana"
+  headline = "Just another Homo sapiens"
+  image = "img/profile.jpg"
+
+  links = [
+    { telegram = "https://t.me/tarunjana" },
+    { facebook = "https://facebook.com/MrTarunJana" },
+    { github = "https://github.com/tarunjana" },
+    { twitter = "https://twitter.com/MrTarunJana" },
+    { email = "mailto:tarunjana@duck.com" },
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86.1"
