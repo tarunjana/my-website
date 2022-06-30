@@ -13,10 +13,11 @@ disableKinds = ["taxonomy", "term"]
   image = "img/profile.jpg"
 
   links = [
-    { telegram = "https://t.me/tarunjana" },
     { facebook = "https://facebook.com/MrTarunJana" },
-    { github = "https://github.com/tarunjana" },
+    { instagram = "https://instagram.com/mr_tarunjana" },
     { twitter = "https://twitter.com/MrTarunJana" },
+    { telegram = "https://t.me/tarunjana" },
+    { github = "https://github.com/tarunjana" },
     { email = "mailto:tarunjana@duck.com" },
   ]
 
